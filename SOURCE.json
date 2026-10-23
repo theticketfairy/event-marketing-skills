@@ -1,0 +1,32 @@
+{
+  "source_repository": "https://github.com/theticketfairy/agent-skills",
+  "source_commit": "186567788b4881e5c37fadc69132756dd3c02bda",
+  "uncommitted_source": false,
+  "skills": [
+    {
+      "name": "email-and-market-to-buyers",
+      "source_path": "skills/email-and-market-to-buyers/SKILL.md",
+      "sha256": "59748bd34726089b82fa5c3bdab904cf04f811112174e40dc7bfc104e406a189"
+    },
+    {
+      "name": "run-promotions-and-discounts",
+      "source_path": "skills/run-promotions-and-discounts/SKILL.md",
+      "sha256": "d4d9526352b23276128445219151e26113a2f413de85000376ff08c92e5f8d32"
+    },
+    {
+      "name": "grow-sales-with-referrals",
+      "source_path": "skills/grow-sales-with-referrals/SKILL.md",
+      "sha256": "9811341c76e03309c223bb919669b45df4d577c99161f91a946467e5bd5829f1"
+    },
+    {
+      "name": "track-advertising-campaigns",
+      "source_path": "skills/track-advertising-campaigns/SKILL.md",
+      "sha256": "2958377f83fc98e350a81746dbb619247f062b1a46cbb320a0c5809af65a4de4"
+    },
+    {
+      "name": "run-event-social-media",
+      "source_path": "skills/run-event-social-media/SKILL.md",
+      "sha256": "b7c7b47228ed3685d07bc0ffae691ca51447cb71437cc7926c5ef9ee4478f5db"
+    }
+  ]
+}
